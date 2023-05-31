@@ -1,7 +1,6 @@
-Question 1: Create an array of objects that each contain the name, surname and age of the people in this group. 9 objects in total.
-Question 2: Create a table on your html with headings for "Name", "Surname", and "Age"
 Question 3: Renders each person object in the table using JavaScript
 
+// Question 1: Create an array of objects that each contain the name, surname and age of the people in this group. 9 objects in total.
 // Question 1:
 let person1 = {
     name: 'Amy',
